@@ -1,6 +1,6 @@
-package com.kc.module;
+package com.azfs.module;
 
-import com.kc.model.Communicator;
+import com.azfs.model.Communicator;
 import dagger.Module;
 import dagger.Provides;
 

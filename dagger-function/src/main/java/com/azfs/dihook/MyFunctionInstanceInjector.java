@@ -1,6 +1,6 @@
-package com.kc.dihook;
+package com.azfs.dihook;
 
-import com.kc.component.DaggerFunctionComponent;
+import com.azfs.component.DaggerFunctionComponent;
 import com.microsoft.azure.functions.spi.inject.FunctionInstanceInjector;
 
 public class MyFunctionInstanceInjector implements FunctionInstanceInjector {

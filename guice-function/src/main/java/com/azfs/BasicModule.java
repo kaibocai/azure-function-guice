@@ -1,8 +1,6 @@
-package com.kc;
+package com.azfs;
 
 import com.google.inject.AbstractModule;
-
-import javax.inject.Singleton;
 
 public class BasicModule extends AbstractModule {
 

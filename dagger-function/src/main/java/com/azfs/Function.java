@@ -1,6 +1,6 @@
-package com.kc;
+package com.azfs;
 
-import com.kc.model.Communicator;
+import com.azfs.model.Communicator;
 import com.microsoft.azure.functions.ExecutionContext;
 import com.microsoft.azure.functions.HttpMethod;
 import com.microsoft.azure.functions.HttpRequestMessage;

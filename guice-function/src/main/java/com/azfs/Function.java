@@ -1,4 +1,4 @@
-package com.kc;
+package com.azfs;
 
 import com.google.inject.Inject;
 import com.microsoft.azure.functions.ExecutionContext;

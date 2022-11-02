@@ -1,7 +1,7 @@
-package com.kc.component;
+package com.azfs.component;
 
-import com.kc.Function;
-import com.kc.module.FunctionModule;
+import com.azfs.Function;
+import com.azfs.module.FunctionModule;
 import dagger.Component;
 
 @Component(modules = FunctionModule.class)

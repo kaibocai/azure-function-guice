@@ -1,4 +1,4 @@
-package com.kc;
+package com.azfs;
 
 import com.microsoft.azure.functions.ExecutionContext;
 
