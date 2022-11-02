@@ -1,4 +1,4 @@
-package com.kc.di;
+package com.kc.dihook;
 
 import com.google.inject.Guice;
 import com.kc.BasicModule;
