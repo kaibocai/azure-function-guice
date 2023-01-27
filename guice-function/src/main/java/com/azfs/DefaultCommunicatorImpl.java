@@ -6,6 +6,7 @@ public class DefaultCommunicatorImpl implements Communicator{
     @Override
     public boolean sendMessage(ExecutionContext context) {
         context.getLogger().info("Message sent out from injected communicator :) ");
+        //add your own logic...
         return true;
     }
 }

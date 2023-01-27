@@ -10,6 +10,7 @@ public class Communicator {
     }
 
     public void communicate(ExecutionContext context){
-        context.getLogger().info("message for inject communicator ID: " + id);
+        context.getLogger().info("Message sent out from injected communicator :) ");
+        //add your own logics ...
     }
 }
